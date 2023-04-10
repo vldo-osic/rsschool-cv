@@ -1,1 +1,1 @@
-https://vldo-osic.github.io/rsschool-cv/
+https://vldo-osic.github.io/rsschool-cv/cv.md
